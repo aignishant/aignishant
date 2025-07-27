@@ -141,6 +141,6 @@ I'm always interested in collaborating on innovative AI projects, cloud solution
 ⭐ **"Building intelligent systems that make a difference"** ⭐
 
 [linkedin]: https://www.linkedin.com/in/aignishant/
-[Medium]: https://neuralpai.medium.com/
+[Medium]: [https://neuralpai.medium.com/](https://medium.com/@aignishant)
 [YouTube]: https://www.youtube.com/channel/UCGHaAIXJiQA76M7DfmLRm_w
 [LeetCode]: https://leetcode.com/gnish
