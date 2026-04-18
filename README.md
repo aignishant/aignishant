@@ -207,46 +207,48 @@ Shipped consumer-facing iOS & Android apps; partnered closely with design on fea
 <!-- ───────────────────────── CERTIFICATIONS ───────────────────────── -->
 ## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"/> Certifications & Credentials
 
-<div align="center">
-
 <table>
+<thead>
 <tr>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/4X-2F2F2F?style=for-the-badge&labelColor=4285F4" height="28" /><br/>
-  <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="42" /><br/>
-  <strong>Google SecOps</strong><br/>
-  <sub>Certified Practitioner</sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/20X-2F2F2F?style=for-the-badge&labelColor=EA4335" height="28" /><br/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="42" /><br/>
-  <strong>Google Cloud</strong><br/>
-  <sub>Skilled Badges</sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/4X-2F2F2F?style=for-the-badge&labelColor=FF9900" height="28" /><br/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="42" /><br/>
-  <strong>AWS Partner</strong><br/>
-  <sub>Certified</sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/-2F2F2F?style=for-the-badge&labelColor=3776AB" height="28" /><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" /><br/>
-  <strong>Python & Security</strong><br/>
-  <sub>Specialist</sub>
-</td>
+<th align="left">Certification</th>
+<th align="left">Issuer</th>
+<th align="center">Year</th>
 </tr>
+</thead>
+<tbody>
+<tr>
+<td>🛡️ &nbsp;<strong>Google Chronicle SOAR — Certified Practitioner</strong></td>
+<td><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" /></td>
+<td align="center"><code>YYYY</code></td>
+</tr>
+<tr>
+<td>☁️ &nbsp;<strong>Google Cloud — Associate Cloud Engineer</strong></td>
+<td><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" /></td>
+<td align="center"><code>YYYY</code></td>
+</tr>
+<tr>
+<td>☁️ &nbsp;<strong>AWS Certified — Cloud Practitioner</strong></td>
+<td><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /></td>
+<td align="center"><code>YYYY</code></td>
+</tr>
+<tr>
+<td>🐍 &nbsp;<strong>Python for Data Science / ML</strong></td>
+<td><img src="https://img.shields.io/badge/Coursera%20%2F%20IBM-0056D2?style=flat-square&logo=coursera&logoColor=white" /></td>
+<td align="center"><code>YYYY</code></td>
+</tr>
+<tr>
+<td>🏅 &nbsp;<strong>Certified Scrum Master / Agile Practitioner</strong></td>
+<td><img src="https://img.shields.io/badge/Scrum%20Alliance%20%2F%20PMI-6FA8DC?style=flat-square&logo=scrumalliance&logoColor=white" /></td>
+<td align="center"><code>YYYY</code></td>
+</tr>
+</tbody>
 </table>
 
-<br/>
-
-<a href="https://www.credly.com/users/aignishant/badges">
-  <img src="https://img.shields.io/badge/View%20All%20Credentials-on%20Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white&labelColor=1a1b27" alt="View all credentials on Credly" height="40" />
-</a>
-
-<sub>🔗 Verified digital badges hosted on <a href="https://www.credly.com/users/aignishant/badges">Credly</a></sub>
-
-</div>
+<p align="left">
+  <a href="https://www.credly.com/users/aignishant/badges">
+    <img src="https://img.shields.io/badge/View%20All%20Credentials-on%20Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white&labelColor=1a1b27" alt="View all credentials on Credly" />
+  </a>
+</p>
 
 <br/>
 
