@@ -18,11 +18,29 @@
 
 <br/>
 
-<!-- Profile badges row -->
+<!-- Profile metrics row -->
 <img src="https://komarev.com/ghpvc/?username=aignishant&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
 <img src="https://img.shields.io/github/followers/aignishant?label=Followers&style=for-the-badge&color=0e75b6&labelColor=1a1b27" alt="followers" />
 <img src="https://img.shields.io/badge/Experience-8%2B%20Years-0e75b6?style=for-the-badge&labelColor=1a1b27" alt="experience" />
 <img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=for-the-badge&labelColor=1a1b27" alt="open to collab" />
+
+<br/><br/>
+
+<!-- Credentials row -->
+<p>
+  <img src="https://img.shields.io/badge/Senior%20Technical%20Lead-HCLTech-005F9E?style=for-the-badge&logo=hcl&logoColor=white&labelColor=1a1b27" alt="Senior Technical Lead @ HCLTech" />
+  <img src="https://img.shields.io/badge/4X-Google%20SecOps%20Certified-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=1a1b27" alt="4X Google SecOps Certified" />
+  <img src="https://img.shields.io/badge/20X-GCP%20Skilled%20Badges-EA4335?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=1a1b27" alt="20X GCP Skilled Badges" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/4X-AWS%20Partner%20Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a1b27" alt="4X AWS Partner Certified" />
+  <img src="https://img.shields.io/badge/Python%20%26%20Security-Specialist-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1b27" alt="Python & Security Specialist" />
+  <img src="https://img.shields.io/badge/Instructor-Udemy%20%7C%20YouTube-A435F0?style=for-the-badge&logo=udemy&logoColor=white&labelColor=1a1b27" alt="Instructor on Udemy & YouTube" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/AI%20%26%20Data-Enthusiast-00BFA6?style=for-the-badge&logo=databricks&logoColor=white&labelColor=1a1b27" alt="AI & Data Enthusiast" />
+  <img src="https://img.shields.io/badge/Medium-Tech%20Writer-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=1a1b27" alt="Medium Tech Writer" />
+</p>
 
 </div>
 
@@ -32,28 +50,38 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
 
 ```yaml
-name:       Nishant (AIGnishant)
-role:       Senior Technical Lead @ HCLTech
-location:   India 🇮🇳
-focus:      Generative AI • Agentic Systems • SOAR • Cloud Architecture
-clients:    Google (Chronicle SOAR), Fortune-500 Enterprises
-shipped:    300+ integrations into security marketplace
-motto:      "Building intelligent systems that make a difference."
+name:          Nishant (AIGnishant)
+role:          Senior Technical Lead @ HCLTech
+specialization: Google SecOps • Python • Cloud • AI
+certifications: 4X Google SecOps • 20X GCP Skilled • 4X AWS Partner
+teaching:      Instructor on Udemy & YouTube • Writer on Medium
+motto:         "Bridging industry practice with continuous learning."
 ```
 
-> I lead engineering teams that turn ambiguous problems into production-grade AI and security automation.
-> Currently deep in **Agentic AI**, **LLM orchestration**, and **Chronicle SOAR playbook engineering**.
+I'm a **Senior Technical Lead at HCLTech** with extensive experience in **Python development, cloud technologies, and security**, with a specialization in **Google SecOps**. My role centres on leading technical teams, designing scalable enterprise solutions, and mentoring engineers to excel in both technical and leadership capacities.
+
+Alongside my professional work, I'm deeply committed to **knowledge sharing**. As an Instructor on **Udemy** and **YouTube**, I develop structured, hands-on learning resources that make complex topics in Python, Cloud, AI, and Security accessible to learners worldwide. I also contribute regularly to **Medium**, writing on technology trends, best practices, and practical insights from real-world projects.
+
+**🎯 My areas of focus**
+
+- 🐍 &nbsp;**Python, Cloud, and Security** — with deep specialization in Google SecOps
+- 🤖 &nbsp;**Data, AI, and applied Machine Learning** — from prototypes to production
+- 🏗️ &nbsp;**Scalable architecture design and technical leadership** across distributed teams
+- 🎓 &nbsp;**Content creation** through courses, blogs, and technical writing
+
+> I strive to bridge the gap between industry practice and continuous learning — empowering both organizations and individuals to stay ahead in the evolving technology landscape.
 
 <br/>
 
 <!-- ───────────────────────── CURRENT WORK ───────────────────────── -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> What I'm Up To
 
-- 🔭 &nbsp;Leading **Google Chronicle SOAR** delivery at HCLTech — 300+ integrations, 25% faster incident resolution
-- 🧠 &nbsp;Building **Agentic AI** workflows with LangGraph, LangChain, and the OpenAI & Anthropic APIs
+- 🔭 &nbsp;Leading **Google SecOps / Chronicle SOAR** delivery at HCLTech — 300+ integrations, 25% faster incident resolution
+- 🎓 &nbsp;Teaching on **Udemy** and **YouTube** — hands-on courses in Python, Cloud, AI, and Security
+- ✍️ &nbsp;Writing on [**Medium**](https://medium.com/@aignishant) about tech trends, best practices, and real-world lessons
+- 🧠 &nbsp;Exploring **Agentic AI** workflows with LangGraph, LangChain, and modern LLM APIs
 - ☁️ &nbsp;Architecting scalable services on **GCP** and **AWS** with FastAPI + containerized microservices
 - 👥 &nbsp;Mentoring engineers — championing clean code, code reviews, and agile delivery
-- ✍️ &nbsp;Writing on [Medium](https://medium.com/@aignishant) about GenAI, SecOps, and system design
 - 📫 &nbsp;Reach me at **ai.gnishant@gmail.com**
 
 <br/>
@@ -66,12 +94,10 @@ motto:      "Building intelligent systems that make a difference."
 #### &nbsp;&nbsp;🧑‍💻 Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 #### &nbsp;&nbsp;🤖 AI / ML / GenAI
@@ -96,6 +122,16 @@ motto:      "Building intelligent systems that make a difference."
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+</p>
+
+#### &nbsp;&nbsp;📱 Mobile
+<p>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
 </p>
 
 #### &nbsp;&nbsp;☁️ Cloud & DevOps
@@ -165,6 +201,52 @@ Shipped consumer-facing iOS & Android apps; partnered closely with design on fea
 </td>
 </tr>
 </table>
+
+<br/>
+
+<!-- ───────────────────────── CERTIFICATIONS ───────────────────────── -->
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"/> Certifications & Credentials
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/4X-2F2F2F?style=for-the-badge&labelColor=4285F4" height="28" /><br/>
+  <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="42" /><br/>
+  <strong>Google SecOps</strong><br/>
+  <sub>Certified Practitioner</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/20X-2F2F2F?style=for-the-badge&labelColor=EA4335" height="28" /><br/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="42" /><br/>
+  <strong>Google Cloud</strong><br/>
+  <sub>Skilled Badges</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/4X-2F2F2F?style=for-the-badge&labelColor=FF9900" height="28" /><br/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="42" /><br/>
+  <strong>AWS Partner</strong><br/>
+  <sub>Certified</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/-2F2F2F?style=for-the-badge&labelColor=3776AB" height="28" /><br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" /><br/>
+  <strong>Python & Security</strong><br/>
+  <sub>Specialist</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://www.credly.com/users/aignishant/badges">
+  <img src="https://img.shields.io/badge/View%20All%20Credentials-on%20Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white&labelColor=1a1b27" alt="View all credentials on Credly" height="40" />
+</a>
+
+<sub>🔗 Verified digital badges hosted on <a href="https://www.credly.com/users/aignishant/badges">Credly</a></sub>
+
+</div>
 
 <br/>
 
@@ -245,6 +327,107 @@ Teerthanker Mahaveer University, Moradabad<br/>
 
 <br/>
 
+<!-- ───────────────────────── CERTIFICATIONS ───────────────────────── -->
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/> Certifications & Credentials
+
+<!-- ⚠️  Replace the rows below with your actual certs from https://www.linkedin.com/in/aignishant/
+     Keep the badge + issuer + year pattern — it renders cleanly on GitHub.
+     Delete rows you don't need; add more by copy-pasting any <tr>…</tr> block. -->
+
+<table>
+<tr>
+  <td width="10%" align="center">
+    <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  </td>
+  <td width="60%"><strong>Google Chronicle SOAR — Certified Practitioner</strong><br/>
+    <sub>Issued by Google Cloud</sub>
+  </td>
+  <td width="15%" align="center"><sub><b>YYYY</b></sub></td>
+  <td width="15%" align="center">
+    <a href="#"><img src="https://img.shields.io/badge/Verify-0e75b6?style=flat-square&logo=verifiedbyvisa&logoColor=white" /></a>
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  </td>
+  <td><strong>Google Cloud — Associate Cloud Engineer</strong><br/>
+    <sub>Issued by Google Cloud</sub>
+  </td>
+  <td align="center"><sub><b>YYYY</b></sub></td>
+  <td align="center">
+    <a href="#"><img src="https://img.shields.io/badge/Verify-0e75b6?style=flat-square&logo=verifiedbyvisa&logoColor=white" /></a>
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </td>
+  <td><strong>AWS Certified — Cloud Practitioner</strong><br/>
+    <sub>Issued by Amazon Web Services</sub>
+  </td>
+  <td align="center"><sub><b>YYYY</b></sub></td>
+  <td align="center">
+    <a href="#"><img src="https://img.shields.io/badge/Verify-0e75b6?style=flat-square&logo=verifiedbyvisa&logoColor=white" /></a>
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </td>
+  <td><strong>Python for Data Science / ML</strong><br/>
+    <sub>Issued by &lt;Coursera / IBM / etc.&gt;</sub>
+  </td>
+  <td align="center"><sub><b>YYYY</b></sub></td>
+  <td align="center">
+    <a href="#"><img src="https://img.shields.io/badge/Verify-0e75b6?style=flat-square&logo=verifiedbyvisa&logoColor=white" /></a>
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <img src="https://img.shields.io/badge/Agile-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" />
+  </td>
+  <td><strong>Certified Scrum Master / Agile Practitioner</strong><br/>
+    <sub>Issued by &lt;Scrum Alliance / PMI / etc.&gt;</sub>
+  </td>
+  <td align="center"><sub><b>YYYY</b></sub></td>
+  <td align="center">
+    <a href="#"><img src="https://img.shields.io/badge/Verify-0e75b6?style=flat-square&logo=verifiedbyvisa&logoColor=white" /></a>
+  </td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ───────────────────────── ACHIEVEMENTS ───────────────────────── -->
+## <img src="https://media.giphy.com/media/jpVnCaCis2yO81zaue/giphy.gif" width="28"/> Achievements & Recognition
+
+<!-- ⚠️  Replace placeholder items below with real awards / recognitions from your LinkedIn. -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏆 Professional Recognition
+- 🥇 &nbsp;&lt;Award / Recognition name&gt; — <sub>HCLTech, YYYY</sub>
+- 🌟 &nbsp;&lt;Spot Award / Value Award / etc.&gt; — <sub>HCLTech, YYYY</sub>
+- 🎯 &nbsp;Client appreciation — <sub>Google, YYYY</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Delivery Impact
+- ⚡ &nbsp;**300+** integrations shipped to production
+- 🚀 &nbsp;**25%** faster incident-resolution via SOAR automation
+- 📊 &nbsp;**20%** productivity lift via system optimization
+- 👥 &nbsp;Mentored **&lt;N&gt;+** engineers across squads
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <!-- ───────────────────────── BEYOND CODE ───────────────────────── -->
 ## <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="28"/> Beyond the Keyboard
 
@@ -271,6 +454,12 @@ Teerthanker Mahaveer University, Moradabad<br/>
 </a>
 <a href="https://www.youtube.com/channel/UCGHaAIXJiQA76M7DfmLRm_w">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" />
+</a>
+<a href="https://www.udemy.com/user/aignishant/">
+  <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="udemy" />
+</a>
+<a href="https://www.credly.com/users/aignishant/badges">
+  <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="credly" />
 </a>
 <a href="https://leetcode.com/gnish">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode" />
