@@ -302,7 +302,7 @@ Shipped consumer-facing iOS & Android apps; partnered closely with design on fea
 <div align="center">
 
 <a href="https://leetcode.com/gnishant001">
-  <img src="https://leetcard.jacoblin.cool/gnish?theme=dark&font=Fira%20Code&ext=heatmap" alt="leetcode stats" />
+  <img src="https://leetcard.jacoblin.cool/gnishant001?theme=dark&font=Fira%20Code&ext=heatmap" alt="leetcode stats" />
 </a>
 
 </div>
